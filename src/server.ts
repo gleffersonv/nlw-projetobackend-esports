@@ -92,4 +92,4 @@ app.get('/ads/:id/discord', async (request, response)=>{
   });
 });
 
-app.listen(https://main.d3issn1rjk6gq3.amplifyapp.com/)
+app.listen()
